@@ -1,0 +1,6 @@
+[submodule "externals/chsm"]
+	path = externals/chsm
+	url = https://github.com/xsession/chsm.git
+[submodule "externals/drivers"]
+	path = externals/drivers
+	url = https://github.com/xsession/drivers.git
